@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../PORTFORLO_MANALO"
+		},
+		{
+			"path": "../Portfolio Initial"
+		},
+		{
+			"path": "../../PORTFOLIO _(PART 1)"
+		},
+		{
+			"path": "../testing"
+		},
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			
+
+		]
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IPT_Personal_Portfolio"
+	}
+}
